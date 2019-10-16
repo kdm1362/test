@@ -4,6 +4,6 @@ public class Main{
 		int b = 2;
 		float c = (float)a/b;
 		System.out.println(c);
-		ㅠㅡㅠㅜㅠㅡㅜㅠㅡㅜㅠㅡㅜㅠ
+		//ㅠㅡㅠㅜㅠㅡㅜㅠㅡㅜㅠㅡㅜㅠ 테스트 코멘트
 	}
 }
